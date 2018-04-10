@@ -3,6 +3,7 @@
 See the worksheet from class for definitions of each question.
 
 1.  Write a function that returns the largest element in a list.
+<br>
 2.  Write function that reverses a list, preferably in place.
 3.  Write a function that checks whether an element occurs in a list.
 4.  Write a function that returns the elements on odd positions in a list.

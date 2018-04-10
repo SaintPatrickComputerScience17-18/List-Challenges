@@ -14,7 +14,8 @@ See the worksheet from class for definitions of each question.
 10.  Write a function that merges two sorted lists into a new sorted list. [1,4,6] , [2,3,5]  →  [1,2,3,4,5,6] .
 11.  Write a function that rotates a list by  k  elements. For example  [1,2,3,4,5,6]  rotated by two becomes [3,4,5,6,1,2] . This can be done with or without creating a copy of the list.
 12.  Write a function that computes the list of the first 100 Fibonacci numbers.
-###Tips
+
+### Tips
 -  Tasks 1 and 3 have a similar body of code
 -  Tasks 2 and 6 have a similar body of code
 -  Tasks 3 and 6 are also similar
